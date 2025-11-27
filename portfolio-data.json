@@ -1,0 +1,162 @@
+{
+  "settings": {
+    "name": "Deepak Nema",
+    "title": "Librarian",
+    "location": "India",
+    "summary": "Enthusiastic librarian with experience in library management, cataloging, and providing excellent user services in academic and public libraries.",
+    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:Deepaknema90@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "MS Office Suite",
+          "LIBSYS",
+          "KOHA",
+          "Library Management Systems"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Delhi Public School Sagar",
+          "position": "Librarian",
+          "period": "Current",
+          "description": "Currently working as librarian in Delhi Public School Sagar, (M.P.)"
+        },
+        {
+          "company": "Indore Nursing College",
+          "position": "Librarian",
+          "period": "One year",
+          "description": "One year working experience as librarian in Indore Nursing College, Rau, Indore."
+        },
+        {
+          "company": "Prashanti Group of Institutions Ujjain",
+          "position": "Librarian",
+          "period": "1.3 Year",
+          "description": "1.3 Year working experience as librarian at Prashanti Group of Institutions Ujjain."
+        },
+        {
+          "company": "IIT Mandi (HP)",
+          "position": "Library Trainee",
+          "period": "03/09/2018 - 30/08/2019",
+          "description": "1 Year working experience in central library IIT Mandi (HP) as library trainee from 03/09/2018 to 30/08/2019."
+        },
+        {
+          "company": "Jawaharlal Nehru Central Library Dr. H.S. Gour Vishwavidyalaya Sagar",
+          "position": "Earn While Learn Programme",
+          "period": "Three Month",
+          "description": "Three month working experience of earn while learn programme at Jawaharlal Nehru Central Library Dr. H.S. Gour Vishwavidyalaya Sagar."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": false,
+      "title": "Featured Projects",
+      "items": []
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Dr.H.S.G. Vishwavidyalaya Sagar",
+          "degree": "Master of Library Science (M.Lib.I.Sc)",
+          "period": "2017 - 2018"
+        },
+        {
+          "institution": "Dr. H.S.G. Vishwavidyalaya Sagar",
+          "degree": "Bachelor of Library Science (B.Lib.I.Sc)",
+          "period": "2016 - 2017"
+        },
+        {
+          "institution": "AIST Sagar",
+          "degree": "Bachelors of Engineering (B.E) in Electronics & Communication",
+          "period": "2009 - 2013"
+        },
+        {
+          "institution": "Moraji Higher Secondary School Sagar",
+          "degree": "Higher Secondary",
+          "period": "2009"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Qualified Madhya Pradesh State Eligibility Test for Assistant Professor",
+          "description": "Qualified Madhya Pradesh State Eligibility Test for Assistant Professor in 2024 - 25."
+        },
+        {
+          "title": "Qualified Chhattisgarh State Eligibility Test for Assistant Professor",
+          "description": "Qualified Chhattisgarh State Eligibility Test for Assistant Professor in 2019 - 20."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "Deepaknema90@gmail.com",
+      "phone": "+91 7415678908",
+      "location": "India"
+    },
+    "social": {
+      "enabled": false,
+      "items": []
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Deepak Nema. All rights reserved."
+  }
+}
